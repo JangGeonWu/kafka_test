@@ -6,3 +6,5 @@ kafka 테스트
 
 다음 명령어를 실행하여 카프카 활성화
 `docker-compose -f docker-compose.yml up -d`
+
+<img src="./image/kafka_docker_image.png" title="kafka_docker_image"/>
